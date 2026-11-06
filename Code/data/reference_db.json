@@ -1,0 +1,461 @@
+[
+  {
+    "kind": "ja3s",
+    "value": "b742b407517bac9536a77a7b0fee28e9",
+    "label": "Cobalt Strike (Win10 -> Kali) server response",
+    "category": "malware",
+    "source": "https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/",
+    "raw": null,
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "3f0c1028cc340473e3c43ee957e3b909",
+    "label": "Custom Python script (TLS1.2, 3 ciphers)",
+    "category": "custom",
+    "source": "learned",
+    "raw": "771,49200-49196-53-255,0-11-10-35-22-23-13,29-23-30-25-24,0-1-2",
+    "notes": null
+  },
+  {
+    "kind": "ja4",
+    "value": "t12d040700_1905ac1fb84a_e7e480e5a997",
+    "label": "Custom Python script (TLS1.2, 3 ciphers)",
+    "category": "custom",
+    "source": "learned",
+    "raw": "t12d040700_0035,00ff,c02c,c030_000a,000b,000d,0016,0017,0023_0403,0503,0603,0807,0808,0809,080a,080b,0804,0805,0806,0401,0501,0601,0303,0301,0302,0402,0502,0602",
+    "notes": null
+  },
+  {
+    "kind": "ja3s",
+    "value": "80b3a14bccc8598a1f3bbe83e71f735f",
+    "label": "Emotet C2 server response",
+    "category": "malware",
+    "source": "https://github.com/salesforce/ja3",
+    "raw": null,
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "4d7a28d6f2263ed61de88ca66eb011e3",
+    "label": "Emotet malware",
+    "category": "malware",
+    "source": "https://github.com/salesforce/ja3",
+    "raw": null,
+    "notes": "abuse.ch SSLBL lists the same hash as Tofsee: attribution conflict between sources"
+  },
+  {
+    "kind": "ja4",
+    "value": "t13d191000_9dc949149365_e7c285222651",
+    "label": "Evilginx",
+    "category": "malware",
+    "source": "https://github.com/FoxIO-LLC/ja4 (README examples)",
+    "raw": null,
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "2105790208813bed29f543e01e803d65",
+    "label": "Google Chrome",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,65037-0-51-16-27-51764-35-17613-10-65281-13-18-11-5-43-45-23,4588-29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "098659ab0e303dcc50717fa0e472c548",
+    "label": "Google Chrome",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,11-35-65281-23-17613-65037-43-10-51764-13-51-45-16-18-0-5-27,4588-29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "25cf2fc2e1c36ff23265a3d3da98a4a5",
+    "label": "Google Chrome",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,5-45-18-23-65281-51-27-17613-0-13-51764-35-16-10-43-11-65037,4588-29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "0542538da5e74aa5e4765de85d21151f",
+    "label": "Google Chrome",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,35-13-43-65037-23-10-18-11-16-65281-45-5-27-0-51764-17613-51,4588-29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "759ba4d6f144a301891063df93a820f1",
+    "label": "Google Chrome",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,27-13-65037-45-16-5-10-43-51-18-35-65281-17613-11-23-0-51764,4588-29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "987538851a6b5962ac8193b115489b0b",
+    "label": "Google Chrome",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,27-65037-23-51-16-35-17613-51764-18-5-45-43-65281-13-0-10-11,4588-29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "69ef80cf244e2fa97ed5af91e4d22a7e",
+    "label": "Google Chrome",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,5-10-0-65037-13-17613-18-43-51764-65281-11-23-35-16-45-27-51,4588-29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja4",
+    "value": "t13d1517h2_8daaf6152771_cb7bf5808d99",
+    "label": "Google Chrome",
+    "category": "browser",
+    "source": "learned; https://github.com/FoxIO-LLC/ja4 (README examples)",
+    "raw": "t13d1517h2_002f,0035,009c,009d,1301,1302,1303,c013,c014,c02b,c02c,c02f,c030,cca8,cca9_0005,000a,000b,000d,0012,0017,001b,0023,002b,002d,0033,44cd,ca34,fe0d,ff01_0904,0905,0906,0403,0804,0401,0503,0805,0501,0806,0601",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "c486fa9f911d4de497fa6c84b456789c",
+    "label": "Handcrafted raw TLS client",
+    "category": "custom",
+    "source": "learned",
+    "raw": "771,49200-49199-159-158-49192-49191-61-60-53-47,0-11-10-13-23-65281,23-24-29,0",
+    "notes": null
+  },
+  {
+    "kind": "ja4",
+    "value": "t12d100600_ef2f9671594d_bb157cc35868",
+    "label": "Handcrafted raw TLS client",
+    "category": "custom",
+    "source": "learned",
+    "raw": "t12d100600_002f,0035,003c,003d,009e,009f,c027,c028,c02f,c030_000a,000b,000d,0017,ff01_0403,0804,0401,0503,0805,0501,0806,0601",
+    "notes": null
+  },
+  {
+    "kind": "ja4s",
+    "value": "t120300_c030_5e2616a54c73",
+    "label": "IcedID C2 server",
+    "category": "malware",
+    "source": "https://github.com/FoxIO-LLC/ja4 (README examples)",
+    "raw": null,
+    "notes": null
+  },
+  {
+    "kind": "ja4",
+    "value": "t13d201100_2b729b4bf6f3_9e7b989ebec8",
+    "label": "IcedID malware",
+    "category": "malware",
+    "source": "https://github.com/FoxIO-LLC/ja4 (README examples)",
+    "raw": null,
+    "notes": null
+  },
+  {
+    "kind": "ja3s",
+    "value": "70999de61602be74d4b25185843bd18e",
+    "label": "Metasploit (Win10 -> Kali) server response",
+    "category": "malware",
+    "source": "https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/",
+    "raw": null,
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "fd4238503e8a1731d9eaca70a53e84a4",
+    "label": "Microsoft Edge",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,65281-45-35-5-11-27-18-51-0-17613-65037-43-16-13-10-23-41,4588-29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "5f6ae8cc7a620aca7766ebf0fb2983f4",
+    "label": "Microsoft Edge",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,11-16-43-65281-35-10-17613-18-51-27-65037-13-5-45-23-0,4588-29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "74a950df4f138fd6b996a67b61295d73",
+    "label": "Microsoft Edge",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,27-16-23-51-18-10-45-13-65281-0-11-35-17613-65037-43-5,4588-29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "e0c19040a9f6efbc888255f9f52e5b16",
+    "label": "Microsoft Edge",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,13-43-5-65037-10-35-27-11-65281-16-0-23-18-51-17613-45,4588-29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "496249f58a9b8b57e27330fea6e08229",
+    "label": "Microsoft Edge",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,5-65037-45-11-13-51-23-18-65281-35-0-27-43-16-10-17613,4588-29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "5b52a0c1d631a722dc7ed8d79b8377ed",
+    "label": "Microsoft Edge",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,17613-23-18-65281-16-11-13-51-5-65037-0-10-35-45-27-43,4588-29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "1cbbbcae6288b72802be64458dd942a8",
+    "label": "Microsoft Edge",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,27-13-5-51-11-43-0-10-17613-65037-45-35-23-16-18-65281-41,4588-29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "9ca80fb16b43f536cdb09faf5cdae9b3",
+    "label": "Microsoft Edge",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,18-45-43-27-0-51-13-10-35-23-5-65281-65037-17613-16-11,4588-29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "3480c41416acf7b6e7828f97ecadcd60",
+    "label": "Microsoft Edge",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,18-23-35-51-10-17613-0-11-27-16-45-65037-65281-13-5-43,4588-29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "eac6b2ea8ecb6bdfd5832ea05a96d04b",
+    "label": "Microsoft Edge",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,16-18-5-17613-11-10-51-0-43-27-45-65281-23-13-35-65037,4588-29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "2e3800ad07a0d29f9c39cd5bd1a63335",
+    "label": "Microsoft Edge",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,65037-16-43-17613-35-0-65281-23-45-18-13-11-10-51-5-27-41,4588-29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "b686ebe9d17729bf6bac2c1c507c9eb1",
+    "label": "Microsoft Edge",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4866-4867-49195-49199-49196-49200-52393-52392-49171-49172-156-157-47-53,43-23-5-65281-45-18-10-16-0-17613-65037-51-11-27-35-13,4588-29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja4",
+    "value": "t13d1516h2_8daaf6152771_806a8c22fdea",
+    "label": "Microsoft Edge",
+    "category": "browser",
+    "source": "learned",
+    "raw": "t13d1516h2_002f,0035,009c,009d,1301,1302,1303,c013,c014,c02b,c02c,c02f,c030,cca8,cca9_0005,000a,000b,000d,0012,0017,001b,0023,002b,002d,0033,44cd,fe0d,ff01_0904,0905,0906,0403,0804,0401,0503,0805,0501,0806,0601",
+    "notes": null
+  },
+  {
+    "kind": "ja4",
+    "value": "t13d1517h2_8daaf6152771_a87ad97598a9",
+    "label": "Microsoft Edge",
+    "category": "browser",
+    "source": "learned",
+    "raw": "t13d1517h2_002f,0035,009c,009d,1301,1302,1303,c013,c014,c02b,c02c,c02f,c030,cca8,cca9_0005,000a,000b,000d,0012,0017,001b,0023,0029,002b,002d,0033,44cd,fe0d,ff01_0904,0905,0906,0403,0804,0401,0503,0805,0501,0806,0601",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "6f7889b9fb1a62a9577e685c1fcfa919",
+    "label": "Mozilla Firefox",
+    "category": "browser",
+    "source": "learned",
+    "raw": "771,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53,0-23-65281-10-11-35-16-5-34-18-51-43-13-45-28-27-65037,4588-29-23-24-25-256-257,0",
+    "notes": null
+  },
+  {
+    "kind": "ja4",
+    "value": "t13d1717h2_5b57614c22b0_3cbfd9057e0d",
+    "label": "Mozilla Firefox",
+    "category": "browser",
+    "source": "learned",
+    "raw": "t13d1717h2_002f,0035,009c,009d,1301,1302,1303,c009,c00a,c013,c014,c02b,c02c,c02f,c030,cca8,cca9_0005,000a,000b,000d,0012,0017,001b,001c,0022,0023,002b,002d,0033,fe0d,ff01_0403,0503,0603,0804,0805,0806,0401,0501,0601,0203,0201",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "68b3ecfaf0034bb9fcbecd518b5ab8d4",
+    "label": "PowerShell Invoke-WebRequest (.NET)",
+    "category": "cli",
+    "source": "learned",
+    "raw": "771,4866-4865-49196-49195-49200-49199-49188-49187-49192-49191-49162-49161-49172-49171-157-156-61-60-53-47,0-43-13-35-10-11-51-49-23-65281-45,29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja4",
+    "value": "t13d201100_2b729b4bf6f3_36bf25f296df",
+    "label": "PowerShell Invoke-WebRequest (.NET)",
+    "category": "cli",
+    "source": "learned",
+    "raw": "t13d201100_002f,0035,003c,003d,009c,009d,1301,1302,c009,c00a,c013,c014,c023,c024,c027,c028,c02b,c02c,c02f,c030_000a,000b,000d,0017,0023,002b,002d,0031,0033,ff01_0804,0805,0806,0401,0501,0201,0403,0503,0203,0202,0601,0603",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "a48c0d5f95b1ef98f560f324fd275da1",
+    "label": "Python requests (OpenSSL)",
+    "category": "library",
+    "source": "learned",
+    "raw": "771,4866-4867-4865-49196-49200-49195-49199-52393-52392-49188-49192-49187-49191-159-158-107-103-255,0-11-10-16-22-23-49-13-43-45-51-21,29-23-30-25-24-256-257-258-259-260,0-1-2",
+    "notes": null
+  },
+  {
+    "kind": "ja4",
+    "value": "t13d1812h1_85036bcba153_b26ce05bbdd6",
+    "label": "Python requests (OpenSSL)",
+    "category": "library",
+    "source": "learned",
+    "raw": "t13d1812h1_0067,006b,009e,009f,00ff,1301,1302,1303,c023,c024,c027,c028,c02b,c02c,c02f,c030,cca8,cca9_000a,000b,000d,0015,0016,0017,002b,002d,0031,0033_0403,0503,0603,0807,0808,0809,080a,080b,0804,0805,0806,0401,0501,0601,0303,0301,0302,0402,0502,0602",
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "331a436afb23d4e31134c11b301bdcb5",
+    "label": "Python urllib (OpenSSL)",
+    "category": "library",
+    "source": "learned",
+    "raw": "771,4866-4867-4865-49196-49200-49195-49199-52393-52392-49188-49192-49187-49191-159-158-107-103-255,0-11-10-35-16-22-23-49-13-43-45-51-21,29-23-30-25-24-256-257-258-259-260,0-1-2",
+    "notes": null
+  },
+  {
+    "kind": "ja4",
+    "value": "t13d1813h1_85036bcba153_d339722ba4af",
+    "label": "Python urllib (OpenSSL)",
+    "category": "library",
+    "source": "learned",
+    "raw": "t13d1813h1_0067,006b,009e,009f,00ff,1301,1302,1303,c023,c024,c027,c028,c02b,c02c,c02f,c030,cca8,cca9_000a,000b,000d,0015,0016,0017,0023,002b,002d,0031,0033_0403,0503,0603,0807,0808,0809,080a,080b,0804,0805,0806,0401,0501,0601,0303,0301,0302,0402,0502,0602",
+    "notes": null
+  },
+  {
+    "kind": "ja4s",
+    "value": "t130200_1301_a56c5b993250",
+    "label": "Sliver C2 server",
+    "category": "malware",
+    "source": "https://github.com/FoxIO-LLC/ja4 (README examples)",
+    "raw": null,
+    "notes": "Generic TLS 1.3 server response: also produced by benign servers (e.g. www.wikipedia.org in captures/test.pcap)"
+  },
+  {
+    "kind": "ja4",
+    "value": "t13d190900_9dc949149365_97f8aa674fd9",
+    "label": "Sliver malware",
+    "category": "malware",
+    "source": "https://github.com/FoxIO-LLC/ja4 (README examples)",
+    "raw": null,
+    "notes": null
+  },
+  {
+    "kind": "ja4",
+    "value": "t13d880900_fcb5b95cb75a_b0d3b4ac2a14",
+    "label": "SoftEther VPN client",
+    "category": "vpn",
+    "source": "https://github.com/FoxIO-LLC/ja4 (README examples)",
+    "raw": null,
+    "notes": null
+  },
+  {
+    "kind": "ja4s",
+    "value": "t130200_1302_a56c5b993250",
+    "label": "SoftEther VPN server",
+    "category": "vpn",
+    "source": "https://github.com/FoxIO-LLC/ja4 (README examples)",
+    "raw": null,
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "e7d705a3286e19ea42f587b344ee6865",
+    "label": "Tor client",
+    "category": "anonymizer",
+    "source": "https://github.com/salesforce/ja3",
+    "raw": null,
+    "notes": null
+  },
+  {
+    "kind": "ja3s",
+    "value": "a95ca7eab4d47d051a5cd4fb7b6005dc",
+    "label": "Tor server response",
+    "category": "anonymizer",
+    "source": "https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/",
+    "raw": null,
+    "notes": null
+  },
+  {
+    "kind": "ja3s",
+    "value": "623de93db17d313345d7ea481e7443cf",
+    "label": "Trickbot C2 server response",
+    "category": "malware",
+    "source": "https://github.com/salesforce/ja3",
+    "raw": null,
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "6734f37431670b3ab4292b8f60f29984",
+    "label": "Trickbot malware",
+    "category": "malware",
+    "source": "https://github.com/salesforce/ja3",
+    "raw": null,
+    "notes": null
+  },
+  {
+    "kind": "ja3",
+    "value": "fae0e5d973c96ae1888b99538efa0363",
+    "label": "curl (Windows/Schannel)",
+    "category": "cli",
+    "source": "learned",
+    "raw": "771,4866-4865-49196-49195-49200-49199-49188-49187-49192-49191-49162-49161-49172-49171-157-156-61-60-53-47,0-5-43-13-35-10-11-16-51-49-23-65281-45,29-23-24,0",
+    "notes": null
+  },
+  {
+    "kind": "ja4",
+    "value": "t13d2013h1_2b729b4bf6f3_e24568c0d440",
+    "label": "curl (Windows/Schannel)",
+    "category": "cli",
+    "source": "learned",
+    "raw": "t13d2013h1_002f,0035,003c,003d,009c,009d,1301,1302,c009,c00a,c013,c014,c023,c024,c027,c028,c02b,c02c,c02f,c030_0005,000a,000b,000d,0017,0023,002b,002d,0031,0033,ff01_0804,0805,0806,0401,0501,0201,0403,0503,0203,0202,0601,0603",
+    "notes": null
+  }
+]

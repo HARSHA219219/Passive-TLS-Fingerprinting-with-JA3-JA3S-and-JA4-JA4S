@@ -1,0 +1,11 @@
+ground_truth,client_flow,ja3,ja4,JA4+JA3 verdict,JA3 only verdict,JA4 only verdict,combined_status,fooled_combined
+SPOOF: raw client impersonating Chrome [JA3 replay],10.7.21.155:52641,2105790208813bed29f543e01e803d65,t13d1517h2_8daaf6152771_dcad5a053991,Google Chrome,Google Chrome,UNKNOWN,ja3_only,1
+SPOOF: raw client impersonating Chrome [JA3 replay],10.7.21.155:52643,2105790208813bed29f543e01e803d65,t13d1517h2_8daaf6152771_dcad5a053991,Google Chrome,Google Chrome,UNKNOWN,ja3_only,1
+SPOOF: raw client impersonating Chrome [JA3 replay],10.7.21.155:52644,2105790208813bed29f543e01e803d65,t13d1517h2_8daaf6152771_dcad5a053991,Google Chrome,Google Chrome,UNKNOWN,ja3_only,1
+SPOOF: raw client impersonating Chrome [JA3 replay],10.7.21.155:52648,2105790208813bed29f543e01e803d65,t13d1517h2_8daaf6152771_dcad5a053991,Google Chrome,Google Chrome,UNKNOWN,ja3_only,1
+SPOOF: raw client impersonating Chrome [JA3 replay],10.7.21.155:52652,2105790208813bed29f543e01e803d65,t13d1517h2_8daaf6152771_dcad5a053991,Google Chrome,Google Chrome,UNKNOWN,ja3_only,1
+SPOOF: raw client impersonating Chrome [JA4_r replay],10.7.21.155:52655,4823eba7a8e945d531ffcb77d4aa3572,t13d1517h2_8daaf6152771_cb7bf5808d99,Google Chrome,UNKNOWN,Google Chrome,ja4_only,1
+SPOOF: raw client impersonating Chrome [JA4_r replay],10.7.21.155:55655,4823eba7a8e945d531ffcb77d4aa3572,t13d1517h2_8daaf6152771_cb7bf5808d99,Google Chrome,UNKNOWN,Google Chrome,ja4_only,1
+SPOOF: raw client impersonating Chrome [JA4_r replay],10.7.21.155:55659,4823eba7a8e945d531ffcb77d4aa3572,t13d1517h2_8daaf6152771_cb7bf5808d99,Google Chrome,UNKNOWN,Google Chrome,ja4_only,1
+SPOOF: raw client impersonating Chrome [JA4_r replay],10.7.21.155:62960,4823eba7a8e945d531ffcb77d4aa3572,t13d1517h2_8daaf6152771_cb7bf5808d99,Google Chrome,UNKNOWN,Google Chrome,ja4_only,1
+SPOOF: raw client impersonating Chrome [JA4_r replay],10.7.21.155:62962,4823eba7a8e945d531ffcb77d4aa3572,t13d1517h2_8daaf6152771_cb7bf5808d99,Google Chrome,UNKNOWN,Google Chrome,ja4_only,1

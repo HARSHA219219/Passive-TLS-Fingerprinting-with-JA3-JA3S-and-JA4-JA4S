@@ -1,0 +1,7 @@
+measurement,input,value,unit,notes
+offline pcap pipeline (Scapy read+decode+reassembly+parse+fingerprint),"test_v2.pcap, 6658 packets, 5.3 MB, 303 hellos",1894,packets/s,3.52 s total; Scapy packet decoding dominates
+"peak Python memory, offline pipeline",test_v2.pcap,0.9,MB,tracemalloc
+ClientHello parse,mean of 2000 runs,97.3,microseconds,"~10,279 per second on one core"
+JA3+JA4 computation,mean of 2000 runs,103.2,microseconds,"~9,692 per second on one core"
+JA3S+JA4S computation,mean of 2000 runs,21.5,microseconds,"~46,462 per second on one core"
+DB lookup + identify (SQLite),mean of 2000 runs,31.1,microseconds,"~32,150 per second on one core"

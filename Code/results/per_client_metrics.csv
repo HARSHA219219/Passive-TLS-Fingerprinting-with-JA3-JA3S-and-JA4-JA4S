@@ -1,0 +1,28 @@
+mode,client,connections,true_positive,predicted_as_this,precision,recall,f1
+JA4+JA3,"Custom Python script (TLS1.2, 3 ciphers)",5,5,5,1.0,1.0,1.0
+JA4+JA3,Google Chrome,12,12,22,0.545,1.0,0.706
+JA4+JA3,Handcrafted raw TLS client,5,5,5,1.0,1.0,1.0
+JA4+JA3,Microsoft Edge,19,19,19,1.0,1.0,1.0
+JA4+JA3,Mozilla Firefox,14,14,14,1.0,1.0,1.0
+JA4+JA3,PowerShell Invoke-WebRequest (.NET),5,5,5,1.0,1.0,1.0
+JA4+JA3,Python requests (OpenSSL),5,5,5,1.0,1.0,1.0
+JA4+JA3,Python urllib (OpenSSL),5,5,5,1.0,1.0,1.0
+JA4+JA3,curl (Windows/Schannel),5,5,5,1.0,1.0,1.0
+JA3 only,"Custom Python script (TLS1.2, 3 ciphers)",5,5,5,1.0,1.0,1.0
+JA3 only,Google Chrome,12,0,5,0.0,0.0,0.0
+JA3 only,Handcrafted raw TLS client,5,5,5,1.0,1.0,1.0
+JA3 only,Microsoft Edge,19,0,0,0.0,0.0,0.0
+JA3 only,Mozilla Firefox,14,14,14,1.0,1.0,1.0
+JA3 only,PowerShell Invoke-WebRequest (.NET),5,5,5,1.0,1.0,1.0
+JA3 only,Python requests (OpenSSL),5,5,5,1.0,1.0,1.0
+JA3 only,Python urllib (OpenSSL),5,5,5,1.0,1.0,1.0
+JA3 only,curl (Windows/Schannel),5,5,5,1.0,1.0,1.0
+JA4 only,"Custom Python script (TLS1.2, 3 ciphers)",5,5,5,1.0,1.0,1.0
+JA4 only,Google Chrome,12,12,17,0.706,1.0,0.828
+JA4 only,Handcrafted raw TLS client,5,5,5,1.0,1.0,1.0
+JA4 only,Microsoft Edge,19,19,19,1.0,1.0,1.0
+JA4 only,Mozilla Firefox,14,14,14,1.0,1.0,1.0
+JA4 only,PowerShell Invoke-WebRequest (.NET),5,5,5,1.0,1.0,1.0
+JA4 only,Python requests (OpenSSL),5,5,5,1.0,1.0,1.0
+JA4 only,Python urllib (OpenSSL),5,5,5,1.0,1.0,1.0
+JA4 only,curl (Windows/Schannel),5,5,5,1.0,1.0,1.0

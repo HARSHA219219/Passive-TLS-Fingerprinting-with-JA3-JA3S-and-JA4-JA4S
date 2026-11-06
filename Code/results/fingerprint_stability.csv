@@ -1,0 +1,11 @@
+client,connections,distinct_ja3,distinct_ja4,ja3_repeat_rate,ja4_repeat_rate
+"Custom Python script (TLS1.2, 3 ciphers)",8,1,1,1.0,1.0
+Google Chrome,19,19,1,0.0,1.0
+Handcrafted raw TLS client,8,1,1,1.0,1.0
+Microsoft Edge,31,31,2,0.0,0.967
+Mozilla Firefox,21,1,1,1.0,1.0
+PowerShell Invoke-WebRequest (.NET),8,1,1,1.0,1.0
+Python 3.14.6 urllib (OpenSSL 3.5.7) [not in DB],5,1,1,1.0,1.0
+Python requests (OpenSSL),8,1,1,1.0,1.0
+Python urllib (OpenSSL),8,1,1,1.0,1.0
+curl (Windows/Schannel),8,1,1,1.0,1.0

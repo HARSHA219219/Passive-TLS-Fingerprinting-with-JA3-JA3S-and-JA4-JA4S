@@ -1,0 +1,4 @@
+mode,known_client_connections,correct,accuracy,macro_f1,unknown_verdicts,ambiguous,conflict,unknown_client_correctly_rejected,spoofs_accepted_as_target
+JA4+JA3,75,75,1.0,0.967,0,0,0,5/5,10/10
+JA3 only,75,44,0.587,0.778,31,0,0,5/5,5/10
+JA4 only,75,75,1.0,0.981,0,0,0,5/5,5/10

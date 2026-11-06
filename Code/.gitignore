@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+*.db
+captures/*.pcap
+captures/*.pcapng
+captures/*.log
+captures/scratch.db
+!captures/test.pcap
+tlsfp.db
+.venv/
+!captures/train_v2.pcap
+!captures/test_v2.pcap
+demo/*.pcap
+demo/*_manifest.json

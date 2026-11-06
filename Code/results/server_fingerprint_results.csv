@@ -1,0 +1,7 @@
+server_sni,ja3s,ja3s_full,ja4s,server_hellos,client_labels,db_status,db_verdict,db_category
+en.wikipedia.org,f4febc55ea12b31ae17cfb7e614afda8,"771,4865,43-51",t130200_1301_a56c5b993250,15,(background),ja4_only,Sliver C2 server,malware
+upload.wikimedia.org,f4febc55ea12b31ae17cfb7e614afda8,"771,4865,43-51",t130200_1301_a56c5b993250,47,(background),ja4_only,Sliver C2 server,malware
+upload.wikimedia.org,fcb2d4d0991292272fcb1e464eedfd43,"771,4865,43-51-41",t130300_1301_0ee26285a86f,2,(background),unknown,UNKNOWN,unknown
+www.wikipedia.org,f4febc55ea12b31ae17cfb7e614afda8,"771,4865,43-51",t130200_1301_a56c5b993250,77,Google Chrome; Microsoft Edge; Mozilla Firefox; PowerShell Invoke-WebRequest (.NET); Python 3.14.6 urllib (OpenSSL 3.5.7) [not in DB]; Python requests (OpenSSL); Python urllib (OpenSSL); SPOOF: raw client impersonating Chrome [JA3 replay]; SPOOF: raw client impersonating Chrome [JA4_r replay]; curl (Windows/Schannel),ja4_only,Sliver C2 server,malware
+www.wikipedia.org,f33734dfbbff29f68bcde052e523c287,"771,49196,65281-0-11-35-23",t120500_c02c_45145cc9ca06,5,"Custom Python script (TLS1.2, 3 ciphers)",unknown,UNKNOWN,unknown
+www.wikipedia.org,fcb2d4d0991292272fcb1e464eedfd43,"771,4865,43-51-41",t130300_1301_0ee26285a86f,4,Microsoft Edge,unknown,UNKNOWN,unknown

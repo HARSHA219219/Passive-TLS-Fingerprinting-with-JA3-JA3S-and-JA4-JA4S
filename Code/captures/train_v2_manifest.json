@@ -1,0 +1,248 @@
+{
+  "host": "www.wikipedia.org",
+  "runs": [
+    {
+      "client": "curl",
+      "label": "curl (Windows/Schannel)",
+      "category": "cli",
+      "sni": "www.wikipedia.org",
+      "start": 1793912003.7641842,
+      "end": 1793912004.5759537,
+      "status": "ok"
+    },
+    {
+      "client": "curl",
+      "label": "curl (Windows/Schannel)",
+      "category": "cli",
+      "sni": "www.wikipedia.org",
+      "start": 1793912006.5766878,
+      "end": 1793912007.3423922,
+      "status": "ok"
+    },
+    {
+      "client": "curl",
+      "label": "curl (Windows/Schannel)",
+      "category": "cli",
+      "sni": "www.wikipedia.org",
+      "start": 1793912009.3429413,
+      "end": 1793912010.9853115,
+      "status": "ok"
+    },
+    {
+      "client": "powershell",
+      "label": "PowerShell Invoke-WebRequest (.NET)",
+      "category": "cli",
+      "sni": "www.wikipedia.org",
+      "start": 1793912012.9862905,
+      "end": 1793912015.0193822,
+      "status": "ok"
+    },
+    {
+      "client": "powershell",
+      "label": "PowerShell Invoke-WebRequest (.NET)",
+      "category": "cli",
+      "sni": "www.wikipedia.org",
+      "start": 1793912017.0206013,
+      "end": 1793912018.5014608,
+      "status": "ok"
+    },
+    {
+      "client": "powershell",
+      "label": "PowerShell Invoke-WebRequest (.NET)",
+      "category": "cli",
+      "sni": "www.wikipedia.org",
+      "start": 1793912020.5020037,
+      "end": 1793912021.9535692,
+      "status": "ok"
+    },
+    {
+      "client": "python-urllib",
+      "label": "Python urllib (OpenSSL)",
+      "category": "library",
+      "sni": "www.wikipedia.org",
+      "start": 1793912023.9546294,
+      "end": 1793912025.1335535,
+      "status": "ok"
+    },
+    {
+      "client": "python-urllib",
+      "label": "Python urllib (OpenSSL)",
+      "category": "library",
+      "sni": "www.wikipedia.org",
+      "start": 1793912027.1340554,
+      "end": 1793912027.9478164,
+      "status": "ok"
+    },
+    {
+      "client": "python-urllib",
+      "label": "Python urllib (OpenSSL)",
+      "category": "library",
+      "sni": "www.wikipedia.org",
+      "start": 1793912029.9481347,
+      "end": 1793912030.6803265,
+      "status": "ok"
+    },
+    {
+      "client": "python-requests",
+      "label": "Python requests (OpenSSL)",
+      "category": "library",
+      "sni": "www.wikipedia.org",
+      "start": 1793912032.6812427,
+      "end": 1793912034.2437146,
+      "status": "ok"
+    },
+    {
+      "client": "python-requests",
+      "label": "Python requests (OpenSSL)",
+      "category": "library",
+      "sni": "www.wikipedia.org",
+      "start": 1793912036.2445617,
+      "end": 1793912037.6795259,
+      "status": "ok"
+    },
+    {
+      "client": "python-requests",
+      "label": "Python requests (OpenSSL)",
+      "category": "library",
+      "sni": "www.wikipedia.org",
+      "start": 1793912039.6808002,
+      "end": 1793912040.9199903,
+      "status": "ok"
+    },
+    {
+      "client": "python-custom",
+      "label": "Custom Python script (TLS1.2, 3 ciphers)",
+      "category": "custom",
+      "sni": "www.wikipedia.org",
+      "start": 1793912042.9208343,
+      "end": 1793912043.5027926,
+      "status": "ok"
+    },
+    {
+      "client": "python-custom",
+      "label": "Custom Python script (TLS1.2, 3 ciphers)",
+      "category": "custom",
+      "sni": "www.wikipedia.org",
+      "start": 1793912045.5036778,
+      "end": 1793912046.1098337,
+      "status": "ok"
+    },
+    {
+      "client": "python-custom",
+      "label": "Custom Python script (TLS1.2, 3 ciphers)",
+      "category": "custom",
+      "sni": "www.wikipedia.org",
+      "start": 1793912048.1104877,
+      "end": 1793912048.823326,
+      "status": "ok"
+    },
+    {
+      "client": "handcrafted",
+      "label": "Handcrafted raw TLS client",
+      "category": "custom",
+      "sni": "www.wikipedia.org",
+      "start": 1793912050.8237517,
+      "end": 1793912051.4834692,
+      "status": "ok"
+    },
+    {
+      "client": "handcrafted",
+      "label": "Handcrafted raw TLS client",
+      "category": "custom",
+      "sni": "www.wikipedia.org",
+      "start": 1793912053.4841785,
+      "end": 1793912053.9468327,
+      "status": "ok"
+    },
+    {
+      "client": "handcrafted",
+      "label": "Handcrafted raw TLS client",
+      "category": "custom",
+      "sni": "www.wikipedia.org",
+      "start": 1793912055.9476051,
+      "end": 1793912056.4575555,
+      "status": "ok"
+    },
+    {
+      "client": "chrome",
+      "label": "Google Chrome",
+      "category": "browser",
+      "sni": "www.wikipedia.org",
+      "start": 1793912058.4669507,
+      "end": 1793912062.519324,
+      "status": "ok"
+    },
+    {
+      "client": "chrome",
+      "label": "Google Chrome",
+      "category": "browser",
+      "sni": "www.wikipedia.org",
+      "start": 1793912064.5206554,
+      "end": 1793912066.8145962,
+      "status": "ok"
+    },
+    {
+      "client": "chrome",
+      "label": "Google Chrome",
+      "category": "browser",
+      "sni": "www.wikipedia.org",
+      "start": 1793912068.816155,
+      "end": 1793912071.0644195,
+      "status": "ok"
+    },
+    {
+      "client": "edge",
+      "label": "Microsoft Edge",
+      "category": "browser",
+      "sni": "www.wikipedia.org",
+      "start": 1793912073.0662234,
+      "end": 1793912076.7972696,
+      "status": "ok"
+    },
+    {
+      "client": "edge",
+      "label": "Microsoft Edge",
+      "category": "browser",
+      "sni": "www.wikipedia.org",
+      "start": 1793912078.799524,
+      "end": 1793912081.441897,
+      "status": "ok"
+    },
+    {
+      "client": "edge",
+      "label": "Microsoft Edge",
+      "category": "browser",
+      "sni": "www.wikipedia.org",
+      "start": 1793912083.4438217,
+      "end": 1793912086.0592875,
+      "status": "ok"
+    },
+    {
+      "client": "firefox",
+      "label": "Mozilla Firefox",
+      "category": "browser",
+      "sni": "www.wikipedia.org",
+      "start": 1793912088.0620732,
+      "end": 1793912096.231353,
+      "status": "ok"
+    },
+    {
+      "client": "firefox",
+      "label": "Mozilla Firefox",
+      "category": "browser",
+      "sni": "www.wikipedia.org",
+      "start": 1793912098.2347004,
+      "end": 1793912103.7955008,
+      "status": "ok"
+    },
+    {
+      "client": "firefox",
+      "label": "Mozilla Firefox",
+      "category": "browser",
+      "sni": "www.wikipedia.org",
+      "start": 1793912105.7982144,
+      "end": 1793912109.3052175,
+      "status": "ok"
+    }
+  ]
+}
